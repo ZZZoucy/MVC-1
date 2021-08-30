@@ -1,0 +1,11 @@
+#app1 {
+    width: 50vw;
+    height: 50vh;
+}
+#app1 span {
+    font-size: 30px;
+}
+#app1 button {
+    width: 30px;
+    margin-right: 5px;
+}
